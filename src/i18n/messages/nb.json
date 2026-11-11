@@ -1,0 +1,16 @@
+{
+  "common": {
+    "appName": "Beauty CRM",
+    "save": "Lagre",
+    "cancel": "Avbryt",
+    "edit": "Rediger",
+    "delete": "Slett",
+    "create": "Opprett"
+  },
+  "nav": {
+    "home": "Hjem",
+    "clients": "Kunder",
+    "services": "Tjenester",
+    "appointments": "Timer"
+  }
+}

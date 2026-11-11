@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1794229648532,
+      "tag": "0000_chief_wong",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1794231111920,
+      "tag": "0001_broad_natasha_romanoff",
+      "breakpoints": true
+    }
+  ]
+}
