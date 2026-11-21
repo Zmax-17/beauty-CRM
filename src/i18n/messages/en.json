@@ -1,6 +1,9 @@
 {
   "common": {
     "appName": "Beauty CRM",
+    "logout": "Log out",
+    "expandSidebar": "Expand sidebar",
+    "collapseSidebar": "Collapse sidebar",
     "save": "Save",
     "cancel": "Cancel",
     "edit": "Edit",
@@ -12,5 +15,22 @@
     "clients": "Clients",
     "services": "Services",
     "appointments": "Appointments"
+  },
+  "clients": {
+    "title": "Clients",
+    "searchPlaceholder": "Search by name or phone",
+    "empty": "No clients yet",
+    "emptySearch": "No clients found",
+    "name": "Name",
+    "phone": "Phone",
+    "notes": "Notes",
+    "visitHistory": "Visit history",
+    "noVisits": "No visits yet",
+    "formName": "Name",
+    "formPhone": "Phone",
+    "formNotes": "Notes",
+    "addClient": "Add client",
+    "saving": "Saving…",
+    "backToClients": "Back to clients"
   }
 }

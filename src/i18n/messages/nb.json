@@ -1,6 +1,9 @@
 {
   "common": {
     "appName": "Beauty CRM",
+    "logout": "Logg ut",
+    "expandSidebar": "Utvid sidemenyen",
+    "collapseSidebar": "Skjul sidemenyen",
     "save": "Lagre",
     "cancel": "Avbryt",
     "edit": "Rediger",
@@ -12,5 +15,22 @@
     "clients": "Kunder",
     "services": "Tjenester",
     "appointments": "Timer"
+  },
+  "clients": {
+    "title": "Kunder",
+    "searchPlaceholder": "Søk etter navn eller telefon",
+    "empty": "Ingen kunder ennå",
+    "emptySearch": "Ingen kunder funnet",
+    "name": "Navn",
+    "phone": "Telefon",
+    "notes": "Notater",
+    "visitHistory": "Besøkshistorikk",
+    "noVisits": "Ingen besøk ennå",
+    "formName": "Navn",
+    "formPhone": "Telefon",
+    "formNotes": "Notater",
+    "addClient": "Legg til kunde",
+    "saving": "Lagrer…",
+    "backToClients": "Tilbake til kunder"
   }
 }
