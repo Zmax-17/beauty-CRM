@@ -84,3 +84,15 @@ Important product and technical choices for this educational demo.
 Multiple masters and permissions, multi-tenancy, public booking, customer accounts, payments, notifications, recurring appointments, buffer time, soft delete, automatic conflict detection, advanced analytics.
 
 May be revisited after the core CRM flows are solid.
+
+---
+
+## 9. Code conventions (validation & money)
+
+- Validate raw form data with Zod in Server Actions (safeParse).
+- Zod transformations must run only once.
+- Service prices are entered in NOK and transformed into øre (Math.round(value \* 100)).
+- CRUD helpers (createService, updateService, …) receive already validated and transformed data.
+- Never parse transformed data with the same form schema again - a second \* 100 would corrupt stored prices.
+
+---

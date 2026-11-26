@@ -32,5 +32,38 @@
     "addClient": "Add client",
     "saving": "Saving…",
     "backToClients": "Back to clients"
+  },
+  "services": {
+    "title": "Services",
+    "addService": "Add service",
+    "editService": "Edit service",
+    "deleteService": "Delete service",
+    "searchPlaceholder": "Search services",
+    "empty": "No services yet",
+    "emptySearch": "No services found",
+    "name": "Name",
+    "duration": "Duration",
+    "price": "Price",
+    "minutes": "min",
+    "hours": "hr",
+    "saving": "Saving…",
+    "backToServices": "Back to services",
+    "deleteConfirmation": "Are you sure you want to delete this service?",
+    "deleteSuccess": "Service deleted successfully",
+    "createSuccess": "Service created successfully",
+    "updateSuccess": "Service updated successfully",
+    "validation": {
+      "nameRequired": "Name is required",
+      "durationPositive": "Duration must be greater than 0",
+      "priceNonNegative": "Price cannot be negative"
+    },
+    "formName": "Service name",
+    "formDuration": "Duration (minutes)",
+    "formPrice": "Price (NOK)"
+  },
+  "errors": {
+    "notFoundTitle": "Page not found",
+    "notFoundDescription": "Sorry, the page you are looking for doesn't exist or may have been moved.",
+    "backToHome": "Back to home"
   }
 }

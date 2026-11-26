@@ -32,5 +32,38 @@
     "addClient": "Legg til kunde",
     "saving": "Lagrer…",
     "backToClients": "Tilbake til kunder"
+  },
+  "services": {
+    "title": "Tjenester",
+    "addService": "Legg til tjeneste",
+    "editService": "Rediger tjeneste",
+    "deleteService": "Slett tjeneste",
+    "searchPlaceholder": "Søk etter tjeneste",
+    "empty": "Ingen tjenester ennå",
+    "emptySearch": "Ingen tjenester funnet",
+    "name": "Navn",
+    "duration": "Varighet",
+    "price": "Pris",
+    "minutes": "min",
+    "hours": "t",
+    "saving": "Lagrer…",
+    "backToServices": "Tilbake til tjenester",
+    "deleteConfirmation": "Er du sikker på at du vil slette denne tjenesten?",
+    "deleteSuccess": "Tjenesten ble slettet",
+    "createSuccess": "Tjenesten ble opprettet",
+    "updateSuccess": "Tjenesten ble oppdatert",
+    "validation": {
+      "nameRequired": "Navn er obligatorisk",
+      "durationPositive": "Varigheten må være større enn 0",
+      "priceNonNegative": "Prisen kan ikke være negativ"
+    },
+    "formName": "Tjenestenavn",
+    "formDuration": "Varighet (minutter)",
+    "formPrice": "Pris (NOK)"
+  },
+  "errors": {
+    "notFoundTitle": "Siden ble ikke funnet",
+    "notFoundDescription": "Beklager, siden du leter etter finnes ikke eller kan ha blitt flyttet.",
+    "backToHome": "Tilbake til forsiden"
   }
 }
